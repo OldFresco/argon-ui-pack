@@ -1,0 +1,1 @@
+(function(n){"use strict";var t=Object.prototype.toString;t.call(n.namespace)!=="[object Function]"&&(n.namespace=function(i,r){var f,u,e;if(t.call(i)!=="[object String]")throw new Error("Invalid namespace: "+i);for(f=i.split("."),r=r||n,u=0,e=f.length;u<e;u+=1)typeof r[f[u]]=="undefined"&&(r[f[u]]={}),r=r[f[u]];return r})})(this)

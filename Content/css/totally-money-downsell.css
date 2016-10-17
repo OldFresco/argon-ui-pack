@@ -1,0 +1,24 @@
+﻿.downsellBtn {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+.terms { font-size: 11px; }
+
+.terms-lg { font-size: 14px; }
+
+.checkProducts { padding-bottom: 10px; }
+
+.totallyMoneyDownsell {
+    padding: 80px 0;
+}
+
+.totallyMoneyDownsell p {
+    text-align: center;
+}
+
+.totallyMoneyLogo {
+    width: 350px; 
+    margin-top: 10px; 
+    margin-bottom: 10px;
+}

@@ -1,0 +1,56 @@
+﻿.overlogotext {
+    font-size: 16px;
+    margin: 0 90px 20px 95px;
+}
+
+.underlogotext {
+    font-style: italic;
+    font-size: 14px;
+    margin: 10px 75px 0 85px;
+}
+
+.form p {
+    padding: 0;
+}
+.btn {
+    margin-top: 50px;
+    margin-left: 15px;
+}
+
+.downsellimg {
+    margin-left: 70px;   
+}
+
+@media (max-width: 1200px){
+    .btn {
+        margin-top: 45px;
+    }
+    .downsellimg {
+        margin-left: 20px;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 991px){
+    .overlogotext {
+        font-size: 13px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .underlogotext {
+        font-style: italic;
+        font-size: 13px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .btn {
+        margin-top: 0;
+        margin-bottom: 10px;
+        margin-left: 0;
+    }
+    .downsellimg {
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
